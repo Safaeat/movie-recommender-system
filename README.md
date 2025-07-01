@@ -3,23 +3,24 @@
 
 <h4>Live Project Link: <a href="https://movie-recommender-system-jrp9vwvzyhgtkjalgjb8zp.streamlit.app/">Click me to visit</a></h4>
 
-
+</br>
+</br>
 
 <h3>⚡The Key steps completed</h3>
-- Data Loading & Cleaning] 
+- Data Loading & Cleaning
 - Data Transformation
 - Tag Creation
 - Vectorization & Similarity
 - Recommendation Function
 - Model Saving
 
-
-
+</br>
+</br>
 ## Website Building-
 - Streamlit
 
-
-
+</br>
+</br>
 ## Website Deploy-
 - Streamlit
 
